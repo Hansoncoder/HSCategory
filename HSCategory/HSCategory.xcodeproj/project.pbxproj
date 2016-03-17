@@ -1,0 +1,102 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		040E4BBB1C995C110014EB1F /* DictAndArray+Log.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "DictAndArray+Log.m"; sourceTree = "<group>"; };
+		040E4BBC1C995C110014EB1F /* NSMutableURLRequest+Upload.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSMutableURLRequest+Upload.h"; sourceTree = "<group>"; };
+		040E4BBD1C995C110014EB1F /* NSMutableURLRequest+Upload.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSMutableURLRequest+Upload.m"; sourceTree = "<group>"; };
+		040E4BBE1C995C110014EB1F /* NSObject+performSelector.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+performSelector.h"; sourceTree = "<group>"; };
+		040E4BBF1C995C110014EB1F /* NSObject+performSelector.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+performSelector.m"; sourceTree = "<group>"; };
+		040E4BC01C995C110014EB1F /* NSString+Directory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+Directory.h"; sourceTree = "<group>"; };
+		040E4BC11C995C110014EB1F /* NSString+Directory.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+Directory.m"; sourceTree = "<group>"; };
+		040E4BC21C995C110014EB1F /* NSString+MIME.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+MIME.h"; sourceTree = "<group>"; };
+		040E4BC31C995C110014EB1F /* NSString+MIME.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+MIME.m"; sourceTree = "<group>"; };
+		040E4BC41C995C110014EB1F /* UIImage+HSImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+HSImage.h"; sourceTree = "<group>"; };
+		040E4BC51C995C110014EB1F /* UIImage+HSImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+HSImage.m"; sourceTree = "<group>"; };
+		040E4BC61C995C110014EB1F /* UIView+Frame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
+		040E4BC71C995C110014EB1F /* UIView+Frame.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
+		040E4BC81C995C110014EB1F /* UIView+nearestVc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+nearestVc.h"; sourceTree = "<group>"; };
+		040E4BC91C995C110014EB1F /* UIView+nearestVc.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+nearestVc.m"; sourceTree = "<group>"; };
+		040E4BCA1C995C300014EB1F /* HSCategory.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HSCategory.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		040E4BB41C995BE40014EB1F = {
+			isa = PBXGroup;
+			children = (
+				040E4BCA1C995C300014EB1F /* HSCategory.h */,
+				040E4BBB1C995C110014EB1F /* DictAndArray+Log.m */,
+				040E4BBC1C995C110014EB1F /* NSMutableURLRequest+Upload.h */,
+				040E4BBD1C995C110014EB1F /* NSMutableURLRequest+Upload.m */,
+				040E4BBE1C995C110014EB1F /* NSObject+performSelector.h */,
+				040E4BBF1C995C110014EB1F /* NSObject+performSelector.m */,
+				040E4BC01C995C110014EB1F /* NSString+Directory.h */,
+				040E4BC11C995C110014EB1F /* NSString+Directory.m */,
+				040E4BC21C995C110014EB1F /* NSString+MIME.h */,
+				040E4BC31C995C110014EB1F /* NSString+MIME.m */,
+				040E4BC41C995C110014EB1F /* UIImage+HSImage.h */,
+				040E4BC51C995C110014EB1F /* UIImage+HSImage.m */,
+				040E4BC61C995C110014EB1F /* UIView+Frame.h */,
+				040E4BC71C995C110014EB1F /* UIView+Frame.m */,
+				040E4BC81C995C110014EB1F /* UIView+nearestVc.h */,
+				040E4BC91C995C110014EB1F /* UIView+nearestVc.m */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		040E4BB51C995BE40014EB1F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+			};
+			buildConfigurationList = 040E4BB81C995BE40014EB1F /* Build configuration list for PBXProject "HSCategory" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 040E4BB41C995BE40014EB1F;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		040E4BB91C995BE40014EB1F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		040E4BBA1C995BE40014EB1F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		040E4BB81C995BE40014EB1F /* Build configuration list for PBXProject "HSCategory" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				040E4BB91C995BE40014EB1F /* Debug */,
+				040E4BBA1C995BE40014EB1F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 040E4BB51C995BE40014EB1F /* Project object */;
+}
